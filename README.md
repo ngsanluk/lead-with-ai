@@ -4,7 +4,7 @@
 
 Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Tools.
 
-# Hello! My Name is Sunny
+# Hello! My Name is Sunny 🌞
 
 <img src="https://training.imagenation.com.hk/assets/img/sunnyng.png" alt="Sunny Ng" width="100"/>
 
