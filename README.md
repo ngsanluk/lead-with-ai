@@ -151,7 +151,12 @@ a little girl, facing camera, reaching out to an apple on a coffee table. low ca
 # The Recent Popular Nano Banana 3D Character Prompt
 
 ```
-Turn this photo into a character figure. Behind it, place a figure box with the character image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the figure placed on it. using the figure's vinyl material. set the scene in home studio
+Turn this photo into a character figure.
+Behind it, place a figure box with the character image printed on it,
+and a computer showing the Blender modeling process on its screen.
+In front of the box, add a round plastic base with the figure placed on it.
+Use the figure's vinyl material.
+Set the scene in home studio
 ```
 
 ![](./images/bruce-lee.jpeg)
