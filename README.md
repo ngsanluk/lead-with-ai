@@ -215,6 +215,15 @@ One must master visual language to write effective prompts for video generation.
 
 [Visual Language Guide by Google](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide?hl=en)
 
+# Photo / Video / Icon Libraries
+
+- [Unsplash](https://unsplash.com) - Free high-quality photos.
+- [Pexels](https://www.pexels.com) - Free stock photos and videos.
+- [Freepik](https://www.freepik.com) - Free vectors, stock photos, PSD, and icons.
+- [IconFinder](https://www.iconfinder.com) - Search engine for icons.
+- [Icons8](https://icons8.com) - Free icons and images.
+- [Flaticon](https://www.flaticon.com) - Free icons in various formats.
+
 # HKU Suggested GenAI Tools
 
 [GenAI Tools Listing for Teaching & Learning](https://aied.talic.hku.hk/genaitools/)
