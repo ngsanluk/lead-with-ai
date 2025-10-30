@@ -1,9 +1,4 @@
-<style>
-  h1 {
-    color: #FA7F08;
-  }
-
-</style>
+<link rel="stylesheet" href="style.css">
 
 # Lead With AI
 
