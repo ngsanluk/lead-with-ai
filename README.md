@@ -15,20 +15,22 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 
 # Tools for Today
 
-- [AndyAI](https://gptbots.ai/s/csOvpiEG) (https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assisntant for our workshop
+- [AndyAI](https://gptbots.ai/s/csOvpiEG) (https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
 - [Perplexity](https://www.perplexity.ai/) - AI search engine that provides concise answers with sources.
-- [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks
+- [Grok](https://grok.com) - AI tool for generating text and code.
+- [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
 - [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
 - [Poe](https://poe.com) - Platform to access multiple AI models in one place.
+- [VisualGPT](https://visualgpt.io) - Photo Editor with AI / Image Generation
 - [LMArena](https://lmarena.ai) - Compare and explore different large language models.
 - [Notion AI](https://www.notion.com) - Note-taking and productivity app with AI features.
-- [Canva](https://www.canva.com) - Graphic design platform with AI-powered tools.
+- [Canva](https://www.canva.com) - Graphic design platform with AI-powered tools. Great for Power Point Generation.
 
 # Other Popular AI Tools
 
-- [Microsoft Copilot](https://copilot.microsoft.com) - AI assistant integrated into Microsoft 365 apps.
-- [Gemini](https://gemini.google.com) - Google's advanced AI model for various applications.
-- [VisualGPT](https://visualgpt.io) - AI tool for generating images from text prompts.
+- [Microsoft Copilot](https://copilot.microsoft.com) - Free AI assistant from Microsoft.
+- [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
+- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
 
 # What is Generative AI?
 
@@ -216,6 +218,8 @@ One must master visual language to write effective prompts for video generation.
 [Visual Language Guide by Google](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide?hl=en)
 
 # Photo / Video / Icon Libraries
+
+Images/Video generation tools are slow and expensive. Sometimes, it is more efficient to use free stock photo/video/icon libraries.
 
 - [Unsplash](https://unsplash.com) - Free high-quality photos.
 - [Pexels](https://www.pexels.com) - Free stock photos and videos.
