@@ -15,6 +15,10 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 
 # Tools for Today
 
+It is more effective to keep multiple tabs open for different tools.
+
+To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` on Mac) when clicking the links below.
+
 - [AndyAI](https://gptbots.ai/s/csOvpiEG) (https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
 - [Perplexity](https://www.perplexity.ai/) - AI search engine that provides concise answers with sources.
 - [Grok](https://grok.com) - AI tool for generating text and code.
