@@ -133,7 +133,8 @@ a little girl, facing camera, reaching out to an apple on a coffee table.
 <hr>
 
 ```
-a little girl, facing camera, reaching out to an apple on a coffee table. use wide angle effect so that the apple appears very large on screen.
+a little girl, facing camera, reaching out to an apple on a coffee table.
+use wide angle effect so that the apple appears very large on screen.
 ```
 
 ![](./images/gemini-apple-wide-angle.png)
@@ -141,7 +142,8 @@ a little girl, facing camera, reaching out to an apple on a coffee table. use wi
 <hr>
 
 ```
-a little girl, facing camera, reaching out to an apple on a coffee table. top camera view.
+a little girl, facing camera, reaching out to an apple on a coffee table.
+top camera view.
 ```
 
 ![](./images/gemini-apple-top-view.png)
@@ -149,7 +151,8 @@ a little girl, facing camera, reaching out to an apple on a coffee table. top ca
 <hr>
 
 ```
-a little girl, facing camera, reaching out to an apple on a coffee table. low camera view.
+a little girl, facing camera, reaching out to an apple on a coffee table.
+low camera view.
 ```
 
 ![](./images/gemini-apple-bottom-view.png)
