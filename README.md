@@ -13,6 +13,16 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 **Email**: sunny.ng@imagenation.com.hk  
 **Profile**: [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)
 
+# Useful Keyboard Shortcuts for Today
+
+| Keyboard Shortcut | Description                                          |
+| ----------------- | ---------------------------------------------------- |
+| `CTRL` + `C`      | Copy selected text                                   |
+| `CTRL` + `V`      | Paste copied text                                    |
+| `CTRL` + `Z`      | Undo last action                                     |
+| `WIN` + `D`       | Show Windows Desktop                                 |
+| `SHIFT` + `ENTER` | Move cursor to next line without sending out prompts |
+
 # Tools for Today
 
 It is more effective to keep multiple tabs open for different tools.
