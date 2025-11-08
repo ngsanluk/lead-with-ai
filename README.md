@@ -22,6 +22,7 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 | `CTRL` + `Z`      | Undo last action                                     |
 | `WIN` + `D`       | Show Windows Desktop                                 |
 | `SHIFT` + `ENTER` | Move cursor to next line without sending out prompts |
+| `CTRL` + `F`      | Search on the current page                           |
 
 # Tools for Today
 
@@ -45,6 +46,9 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [Microsoft Copilot](https://copilot.microsoft.com) - Free AI assistant from Microsoft.
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
+- [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
+- [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
+- [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
 
 # What is Generative AI?
 
