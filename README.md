@@ -23,6 +23,7 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 | `WIN` + `D`       | Show Windows Desktop                                 |
 | `SHIFT` + `ENTER` | Move cursor to next line without sending out prompts |
 | `CTRL` + `F`      | Search on the current page                           |
+| `CTRL` + Click    | Open a link in a new browser tab                     |
 
 # Tools for Today
 
