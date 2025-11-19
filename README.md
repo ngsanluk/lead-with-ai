@@ -31,7 +31,7 @@ It is more effective to keep multiple tabs open for different tools.
 
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` on Mac) when clicking the links below.
 
-- [AndyAI](https://gptbots.ai/s/csOvpiEG) (https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
+- <a href="https://gptbots.ai/s/csOvpiEG" target="_blank">Andy AI</a> - Specially-built AI Assistant for our workshop
 - [Perplexity](https://www.perplexity.ai/) - AI search engine that provides concise answers with sources.
 - [Grok](https://grok.com) - AI tool for generating text and code.
 - [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
