@@ -33,9 +33,10 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 - [Andy AI](https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
+- [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [Grok](https://grok.com) - AI tool for generating text and code.
-- [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
 - [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
+- [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
 - [Poe](https://poe.com) - Platform to access multiple AI models in one place.
 - [VisualGPT](https://visualgpt.io) - Photo Editor with AI / Image Generation
 - [LMArena](https://lmarena.ai) - Compare and explore different large language models.
@@ -44,7 +45,6 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 # Other Popular AI Tools
 
-- [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
@@ -245,7 +245,6 @@ Images/Video generation tools are slow and expensive. Sometimes, it is more effi
 - [Unsplash](https://unsplash.com) - Free high-quality photos.
 - [Pexels](https://www.pexels.com) - Free stock photos and videos.
 - [Freepik](https://www.freepik.com) - Free vectors, stock photos, PSD, and icons.
-- [IconFinder](https://www.iconfinder.com) - Search engine for icons.
 - [Icons8](https://icons8.com) - Free icons and images.
 - [Flaticon](https://www.flaticon.com) - Free icons in various formats.
 
