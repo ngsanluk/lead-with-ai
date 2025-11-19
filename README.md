@@ -44,7 +44,6 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 # Other Popular AI Tools
 
-- [Microsoft Copilot](https://copilot.microsoft.com) - Free AI assistant from Microsoft.
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
