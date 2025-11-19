@@ -252,4 +252,4 @@ Images/Video generation tools are slow and expensive. Sometimes, it is more effi
 
 [GenAI Tools Listing for Teaching & Learning](https://aied.talic.hku.hk/genaitools/)
 
-![](./images/gen-ai-tools-listing.png)
+[![](./images/gen-ai-tools-listing.png)](https://aied.talic.hku.hk/genaitools/)
