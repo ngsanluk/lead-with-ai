@@ -33,7 +33,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 - [Andy AI](https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
-- [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assisant.
 - [Grok](https://grok.com) - AI tool for generating text and code.
 - [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
 - [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
@@ -46,6 +46,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 # Other Popular AI Tools
 
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
+- [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
