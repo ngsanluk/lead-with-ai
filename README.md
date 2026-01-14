@@ -8,7 +8,7 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 
 <img src="https://training.imagenation.com.hk/assets/img/sunnyng.png" alt="Sunny Ng" width="100"/>
 
-**Founder / Master Trainer** at [Image Nation](https://www.imagenation.com.hk)  
+**Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU Business School, HKU School of Chinese, HKUSPACE  
 **Email**: sunny.ng@imagenation.com.hk  
 **Profile**: [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)
