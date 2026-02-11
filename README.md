@@ -50,6 +50,10 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
+- [Stable Diffusion](https://stablediffusionweb.com) - Open-source image generation model.
+- [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
+- [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
+- [Runway](https://runwayml.com) - AI-powered video editing and creation
 
 # What is Generative AI?
 
