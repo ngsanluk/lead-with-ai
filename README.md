@@ -6,10 +6,10 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 
 # Hello! My Name is Sunny 🌞
 
-<img src="https://training.imagenation.com.hk/assets/img/sunnyng.png" alt="Sunny Ng" width="100"/>
+<img src="./images/sunny-ng.png" alt="Sunny Ng" width="150"/>
 
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
-**Part-time Lecturer** at HKU Business School, HKU School of Chinese, HKUSPACE  
+**Part-time Lecturer** at HKU, HKUSPACE, EdUHK  
 **Email**: sunny.ng@imagenation.com.hk  
 **Profile**: [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)
 
@@ -31,7 +31,7 @@ It is more effective to keep multiple tabs open for different tools.
 
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` on Mac) when clicking the links below.
 
-- [Andy AI](https://gptbots.ai/s/csOvpiEG) - Specially-built AI Assistant for our workshop
+- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assisant.
 - [Grok](https://grok.com) - AI tool for generating text and code.
@@ -45,7 +45,6 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 # Other Popular AI Tools
 
-- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
@@ -54,6 +53,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
 - [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
+- [newarc](https://www.newarc.ai/) - AI-powered fashion creative platform.
 
 # What is Generative AI?
 
@@ -98,7 +98,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 # Bad Prompt vs. Good Prompt
 
-**❌ Bad Prompt**: Too simple. DOESN'T include elements above.
+**❌ Bad Prompt**: Too simple. Too generic. DOESN'T include other RICE FACT elements exact instruction.
 
 ```
 What is Generative AI?
@@ -112,9 +112,40 @@ What is Generative AI?
 
 # Mastering RICE FACT Prompting Framework
 
-| Element                                                                                                                |                                      | Example                        |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------ |
-| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Explain what GenAI is.<br> |
+Example 1: **Instruction Only**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Explain what GenAI is.<br><br><br><br><br><br><br> |
+
+Example 2: **Role + Instruction**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | You are a secondary teacher.<br>Explain what GenAI is.<br><br><br><br><br><br><br> |
+
+Example 3: **Role + Instruction + Context**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | You are a secondary teacher.<br>Explain what GenAI is.<br>The target audience are junior non-ICT students.<br><br><br><br><br><br> |
+
+Example 4: **Instruction + Format**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Explain what GenAI is.<br><br><br>Use one senetence.<br><br><br><br> |
+
+Example 5: **Instruction + Format**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Explain what GenAI is.<br><br><br>Use three bullet points.<br><br><br><br> |
+
+Example 6: **Instruction + Format + Contraint**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Explain what GenAI is.<br><br><br>Use three bullet points.<br><br>Each bullet point not more than 15 words.<br><br> |
+
+Example 7: **Instruction + Example**
+| Element | | Example |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Generate 10 dummy customer records as below.<br><br>CustID, CustName, Email, Mobile, Address<br><br><br><br><br> |
 
 # Writing Effective Image Generation Prompts
 
