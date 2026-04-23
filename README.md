@@ -96,6 +96,8 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 | **C**onstraints         | →   | Set any limitations or requirements (e.g., "Focus on digital channels.")               |
 | **T**one/Style          | →   | Indicate the desired tone or style (e.g., "Use a professional and engaging tone.")     |
 
+# Bad Prompt vs. Good Prompt
+
 **❌ Bad Prompt**: Too simple. DOESN'T include elements above.
 
 ```
@@ -108,11 +110,11 @@ What is Generative AI?
 | --------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **R**ole <br>**I**nstruction<br>**C**ontext<br>**F**ormat | →<br>→<br>→<br>→ | Act as a school teacher, <br>explain what Generative AI is <br>to primary school students with little computer knowledge. <br>Use bullet points format. |
 
-# Sample Prompts for Today
+# Mastering RICE FACT Prompting Framework
 
-| Element                                                                                                                |                                      | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | A policy researcher who is analyzing education policy in Hong Kong <br>evaluate a policy idea about reducing the amount of homework<br>for primary school students in Hong Kong. <br>full evaluation with e.g. risk, benefit, area to consider, etc <br> In point form, each point maximum 30 words <br> to support a thoughtful decision and refine the policy <br> Do not take implementation cost into consideration. <br> In professional tone, I am going to present this in Legislative Council <br> |
+| Element                                                                                                                |                                      | Example                        |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------ |
+| **R**ole <br>**I**nstruction<br>**C**ontext<br>**E**xample<br>**F**ormat<br>**A**ction <br>**C**onstraints<br>**T**one | →<br>→<br>→<br>→<br>→<br>→<br>→<br>→ | <br>Explain what GenAI is.<br> |
 
 # Writing Effective Image Generation Prompts
 
