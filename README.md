@@ -54,6 +54,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
 - [newarc](https://www.newarc.ai/) - AI-powered fashion creative platform.
+- [Tripoai](https://studio.tripo3d.ai) - AI-powered 3D content creation platform.
 
 # What is Generative AI?
 
@@ -275,6 +276,8 @@ Hong Kong Victoria Harbour at sunset, cinematic,  dynamic.
 One must master visual language to write effective prompts for video generation. Here are some useful resources to learn visual language.
 
 [Visual Language Guide by Google](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide?hl=en)
+
+[Seedance 2.0 Prompt Guide](https://seedance2.ai/guide)
 
 # Photo / Video / Icon Libraries
 
