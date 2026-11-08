@@ -1,6 +1,6 @@
 # Welcome to Lead With AI (2026)
 
-![](./images/banner.jpeg)
+![](./images/banner.jpg)
 
 Leveraging Generative AI Tools and Rewiring How You Work
 
