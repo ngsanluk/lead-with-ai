@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="./style.css">
+# Welcome to Lead With AI (2026)
 
-# Welcome to Lead With AI
+![](./images/banner.jpeg)
 
-Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Tools.
+Leveraging Generative AI Tools and Rewiring How You Work
 
 # Hello! My Name is Sunny 🌞
 
@@ -11,7 +11,8 @@ Rewiring How You Work by Mastering How AI Works and Leveraging Generative AI Too
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU, HKUSPACE, EdUHK  
 **Email**: sunny.ng@imagenation.com.hk  
-**Profile**: [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)
+**Trainer Profile**: [https://training.imagenation.com.hk/#sunny-ng](https://training.imagenation.com.hk/#sunny-ng)  
+**LinkedIn**: [https://www.linkedin.com/in/sunnyng/](https://www.linkedin.com/in/sunnyng/)
 
 # Useful Keyboard Shortcuts for Today
 
