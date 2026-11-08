@@ -6,7 +6,7 @@ Leveraging Generative AI Tools and Rewiring How You Work
 
 # Hello! My Name is Sunny 🌞
 
-<img src="./images/sunny-ng.png" alt="Sunny Ng" width="150"/>
+![](./images/sunny-ng.jpg)
 
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU, HKUSPACE, EdUHK  
