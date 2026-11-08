@@ -18,13 +18,13 @@ Welcome to Lead with AI: Leveraging Generative AI Tools and Rewiring How You Wor
 
 | Keyboard Shortcut | Description                                          |
 | ----------------- | ---------------------------------------------------- |
+| `CTRL` + Click    | Open a link in a new browser tab                     |
+| `SHIFT` + `ENTER` | Move cursor to next line without sending out prompts |
+| `WIN` + `D`       | Show Windows Desktop                                 |
 | `CTRL` + `C`      | Copy selected text                                   |
 | `CTRL` + `V`      | Paste copied text                                    |
 | `CTRL` + `Z`      | Undo last action                                     |
-| `WIN` + `D`       | Show Windows Desktop                                 |
-| `SHIFT` + `ENTER` | Move cursor to next line without sending out prompts |
 | `CTRL` + `F`      | Search on the current page                           |
-| `CTRL` + Click    | Open a link in a new browser tab                     |
 
 # Tools for Today
 
@@ -50,7 +50,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
-- [Stable Diffusion](https://stablediffusionweb.com) - Open-source image generation model.
+- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously known as "Stable Diffusion".
 - [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
 - [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
@@ -59,31 +59,29 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 # What is Generative AI?
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfmlpwY_rU9vxiohYexQSSlfhKZasvs5p9Q&s)
+![](./images/llm-training.png)
 
 - Generative AI is a type of artificial intelligence that can **create new content**, like text, images, or music, in response to prompts from users.
 - It uses machine learning models trained on large datasets (**LLM** - **L**arge **L**anguage **M**odels) to generate outputs that mimic human creativity.
 
-![](https://media.licdn.com/dms/image/v2/D5612AQGAsURTO7PQxw/article-cover_image-shrink_720_1280/B56Zc0Y8tNGoAM-/0/1748930653865?e=2147483647&v=beta&t=tdRXiHj_1cyBP2nr-LrzVUNRzCFfo_TBisx7sm4sx5A)
+![](./images/chatbot-agent-agentic.png)
 
-# Categories of GenAI Tools
+# Popular GenAI Tools
 
-- ✍ **Text**: ChatGPT, Gemini, Gopilot, POE, DeepSeek, CHATPDF, Qwen, 文心一言, 訊飛星火
-- 🖼️ **Images**: Gemini, Canva, Microsoft Designer, DALL-E, Midjourney, Stable Diffusion
-- 🎥 **Video**: Gemini, Sora, Synthesia, Pictory, Runway
-- 🎶 **Audio**: Descript, Audo, Podcastle
-- 💬 **Meeting**: Otter.ai, Fireflies, Fathom
-- **Others**: Canva, Copy.ai, Jasper, Writesonic
+![](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-Gen-AI-Web-Top-50-List-v2-2-1536x973.png)
 
-**Multi-modal AI tools**: supports multiple types of content generation: Gemini, Microsoft Copilot, Notion AI
+![](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-Gen-AI-Apps-Top-50-List-3-1536x973.png)
+
+![](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-Gen-AI-Apps-Top-50-List-1-1536x973.png)
+
+Source: [https://a16z.com/100-gen-ai-apps-7/](https://a16z.com/100-gen-ai-apps-7/)
 
 # Reminders on Using AI Tools
 
-- AI is not always correct
-- AI sometimes generated false information (known as **hallucination**)
+- AI is NOT always correct.AI sometimes generated false information (known as **hallucination**)
 - Free AI tools may collect and use your data to train their models
-- Generative AI tools updates frequently, so features may change and user interfaces may look different
-- Human in the loop
+- Generative AI tools update/evolve rapidly, so features may change and user interfaces may look different
+- Human In The Loop (HITL) is important for ensuring the quality and safety of AI-generated content.
 
 # Effective Prompting Structure: RICE FACT Framework
 
@@ -100,13 +98,13 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 
 # Bad Prompt vs. Good Prompt
 
-**❌ Bad Prompt**: Too simple. Too generic. DOESN'T include other RICE FACT elements exact instruction.
+**❌ Bad Prompt**: Too simple. Too generic. DOESN'T include other RICE FACT elements.
 
 ```
 What is Generative AI?
 ```
 
-**✅ Good Prompt**: Includes SOME or ALL of the elements above.
+**✅ Good Prompt**: Includes A FEW or ALL of the elements above.
 
 | Element                                                   |                  | Example                                                                                                                                                 |
 | --------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -172,7 +170,7 @@ Generate a picture of a cat
 **✅ Good Prompt**: specifies SOME or ALL of the elements above.
 | Element | | Example
 |----------|----|---------------|
-| **Subject** <br>**Background**<br>**Adjective**<br>**Style**<br>**Lighting** | →<br>→<br>→<br>→<br>→| Generate a picture of a cat <br> sitting on a sofa. Behind is a window with curtain. <br>The cat is white. <br>Make the style realistic. <br>Use dramatic lighting.|
+| **Subject** <br>**Background**<br>**Adjective**<br>**Style**<br>**Lighting** | →<br>→<br>→<br>→<br>→| Generate a picture of a cat <br> sitting on a sofa. Behind is a window with open curtain. <br>The cat is white. <br>Make the style realistic. <br>Use dramatic lighting.|
 
 ![](./images/cat-good-prompt.jpg)
 
@@ -211,7 +209,7 @@ low camera view.
 
 ![](./images/gemini-apple-bottom-view.png)
 
-# The Recent Popular Nano Banana 3D Character Prompt
+# Once Popular Nano Banana 3D Character Prompt
 
 ```
 Turn this photo into a character figure.
@@ -222,13 +220,15 @@ Use the figure's vinyl material.
 Set the scene in home studio
 ```
 
+**source image:**
 ![](./images/bruce-lee.jpeg)
 
+**output image:**
 ![](./images/gemini-bruce-lee-figure.png)
 
-# Using visualgpt
+# Using visualgpt.io
 
-[VisualGPT](https://visualgpt.io)
+[https://visualgpt.io](https://visualgpt.io)
 
 - Background Remover
 - AI Room Cleaner
@@ -237,24 +237,21 @@ Set the scene in home studio
 
 ### More Tips on Images Generation
 
-[Gemini Images Generation Tips](https://cloud.google.com/vertex-ai/generative-ai/docs/image/img-gen-prompt-guide?hl=en&_gl=1*1d1nmdp*_ga*NDYzNTcyOTM0LjE3NDkxMzcyMTk.*_ga_WH2QY8WWF5*czE3NTk2NzY4ODAkbzEwMyRnMSR0MTc1OTY3NzEzNyRqNjAkbDAkaDA.)
+[The ultimate Nano Banana prompting guide](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana)
 
 # Videos Generation
 
-Video generation is still in early stage. Video generation tools consume more computing resources and it takes longer time to generate videos.
+Video generation tools consume more computing resources and it takes longer time to generate videos.
 
 ## Tools
 
+- Google Gemini (Paid Version) (https://gemini.google.com/)
 - Google Veo (https://cloud.google.com/vertex-ai/generative-ai/docs/video/overview)
 - OpenAI Sora (https://openai.com/sora/)
 
-### Demonstration using Vertex AI Studio on Google Cloud Platform
+### Video GenerationDemonstration
 
-[Google Cloud Platform](https://console.cloud.google.com/)
-
-![](./images/vertex-ai-studio.png)
-
-Use the following prompt
+Use the following prompts
 
 ```
 Pancakes with maple syrup, cinematic food advertisement b-roll, dynamic.
@@ -263,7 +260,7 @@ Pancakes with maple syrup, cinematic food advertisement b-roll, dynamic.
 Video Generation Using Veo
 ![](./images/vertex-ai-studio-veo.png)
 
-### More Video Demo Prompts
+### More Video Generation Prompts
 
 ```
 Hong Kong Causeway Bay, pedestrians walk on busy street, cinematic, dynamic.
@@ -276,17 +273,16 @@ Hong Kong Victoria Harbour at sunset, cinematic,  dynamic.
 **Tips on Video Generation**:  
 One must master visual language to write effective prompts for video generation. Here are some useful resources to learn visual language.
 
-[Visual Language Guide by Google](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide?hl=en)
-
-[Seedance 2.0 Prompt Guide](https://seedance2.ai/guide)
+[Video generation prompt guide](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide?hl=en)  
+[Seedance Prompt Builder](https://seedancee.com/seedance-prompts)
 
 # Photo / Video / Icon Libraries
 
-Images/Video generation tools are slow and expensive. Sometimes, it is more efficient to use free stock photo/video/icon libraries.
+Images/Video generation tools cloud end up being slow and expensive. Sometimes, it is more efficient to use free stock photo/video/icon libraries.
 
 - [Unsplash](https://unsplash.com) - Free high-quality photos.
 - [Pexels](https://www.pexels.com) - Free stock photos and videos.
-- [Freepik](https://www.freepik.com) - Free vectors, stock photos, PSD, and icons.
+- [Magnific](https://www.magnific.com/) - Free vectors, stock photos, PSD, and icons.
 - [Icons8](https://icons8.com) - Free icons and images.
 - [Flaticon](https://www.flaticon.com) - Free icons in various formats.
 
