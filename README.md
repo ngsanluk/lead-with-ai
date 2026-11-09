@@ -32,21 +32,24 @@ It is more effective to keep multiple tabs open for different tools.
 
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` on Mac) when clicking the links below.
 
-- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
-- [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
+- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, video & programming.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assisant.
-- [Grok](https://grok.com) - AI tool for generating text and code.
-- [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
+- [Grok](https://grok.com) - SpaceX AI tool.
+- [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks by Alibaba
 - [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
+- [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
 - [Poe](https://poe.com) - Platform to access multiple AI models in one place.
 - [VisualGPT](https://visualgpt.io) - Photo Editor with AI / Image Generation
-- [LMArena](https://lmarena.ai) - Compare and explore different large language models.
 - [Notion AI](https://www.notion.com) - Note-taking and productivity app with AI features.
 - [Canva](https://www.canva.com) - Graphic design platform with AI-powered tools. Great for Power Point Generation.
+- [Napkin AI](https://www.napkin.ai/) - Visual generation tool.
+- [Julius AI](https://julius.ai/) - AI Tools for Excel, Presentations, Websites & More
+- [Arena](https://arena.ai/) - Compare and explore different large language models.
 
 # Other Popular AI Tools
 
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
+- [Workbuddy](https://workbuddy.ai/) - AI assistant by Tencent for workplace productivity.
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
@@ -56,8 +59,10 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
 - [newarc](https://www.newarc.ai/) - AI-powered fashion creative platform.
 - [Tripoai](https://studio.tripo3d.ai) - AI-powered 3D content creation platform.
+- [Suno](https://suno.ai/) - AI-powered music generation platform.
+- [Lovable](https://lovable.ai/) - AI-powered codes generation platform.
 
-# What is Generative AI?
+# LLM & Generative AI
 
 ![](./images/llm-training.png)
 
