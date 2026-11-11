@@ -112,10 +112,10 @@ Use the figure's vinyl material.
 Set the scene in home studio
 ```
 
-**source image:**
+**source image:**  
 ![](./images/bruce-lee.jpeg)
 
-**output image:**
+**output image:**  
 ![](./images/gemini-bruce-lee-figure.png)
 
 ## Applying camera language to the prompt
@@ -160,7 +160,7 @@ low camera view.
 [The ultimate Nano Banana prompting guide](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana)
 [![](https://storage.googleapis.com/gweb-cloudblog-publish/images/0_hero.max-2000x2000.png)](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana)
 
-# Effective Prompting Structure: RICE FACT Framework
+# RICE FACT Framework - Effective Prompt Structure
 
 | Element                 |     | Description                                                                            |
 | ----------------------- | --- | -------------------------------------------------------------------------------------- |
