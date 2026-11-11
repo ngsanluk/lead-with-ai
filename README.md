@@ -244,7 +244,7 @@ Example 7: **Instruction + Example**
 
 ---
 
-## Writing Effective Image Generation Prompts
+## Effective Image Generation Prompts
 
 To write effective prompts for images generation, consider the following elements:
 
@@ -277,28 +277,32 @@ Generate a picture of a cat
 
 ---
 
+## Image as Style Reference
+
+You can also feed image as style reference and instruct Gemini to use it as target style to edit your own image in the same style.
+
+## Reverse Engineering
+
+In Visual GPT, you can use the "Reverse Engineering" feature to analyze an image and understand how it was created. This can help you learn about different styles and techniques used in image generation, allowing you to replicate or modify them in your own projects.
+
 # Videos Generation
 
-Video generation tools consume more computing resources and it takes longer time to generate videos.
+Video generation is an exciting area of AI that allows users to create videos from text prompts or by feeding in still images. With AI video generation tools, students can bring their stories to life, create engaging content, and explore new ways of storytelling.
 
-## Tools
+With AI video generation tools, creators can unleash their creativity and bring their ideas to life through videos. Without AI, a video shooting scene may take a team hours or days to set up, but with AI, it can be done in minutes.
 
-- Google Gemini (Paid Version) (https://gemini.google.com/)
-- Google Veo (https://cloud.google.com/vertex-ai/generative-ai/docs/video/overview)
-- OpenAI Sora (https://openai.com/sora/)
+You can also try Gemini, Yeri and Qwen. They provide some free credits for users to try out the video generation features. The resolution will be low and the length is short, but it's a good start for creators to explore the possibilities of AI video generation.
+
+## Video Generation Tools
+
+- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, canvas (apps),audio, and video.
+- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously know as Stablediffusion.
+- [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks.
+- [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
+- [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
+- [Runway](https://runwayml.com) - AI-powered video editing and creation
 
 ## Video Generation Demonstration
-
-Use the following prompts
-
-```
-Pancakes with maple syrup, cinematic food advertisement b-roll, dynamic.
-```
-
-Video Generation Using Veo
-![](./images/vertex-ai-studio-veo.png)
-
-## More Video Generation Prompts
 
 ```
 Hong Kong Causeway Bay, pedestrians walk on busy street, cinematic, dynamic.
@@ -308,11 +312,171 @@ Hong Kong Causeway Bay, pedestrians walk on busy street, cinematic, dynamic.
 Hong Kong Victoria Harbour at sunset, cinematic,  dynamic.
 ```
 
-**Tips on Video Generation**:  
+### Example: futuristic cityscape
+
+```
+A futuristic cityscape at night with flying cars and neon lights. The scene is set in a cyberpunk world with a dark, moody atmosphere.
+```
+
+![](./images/video-gen-example-1.jpeg)
+
+---
+
+## Embracing Camera Language
+
+To create effective AI-generated videos, treat your prompt like a director’s instruction. A high-quality prompt typically follows this structure: **[Camera Movement/Angle]** + **[Subject Description]** + **[Environment/Setting]** + **[Lighting/Mood]** + **[Style/Technical Details]**.
+
+**Specify the "Lens"**: You can add terms like "wide-angle lens" for landscapes or "shallow depth of field" (bokeh) to make your subject pop from the background.
+
+**Define the Light**: Lighting dictates the mood. Use descriptors like "soft diffused light," "dramatic chiaroscuro," "golden hour," or "neon-lit" to control the atmosphere.
+
+**Keep it Simple**: AI performs best when you provide one clear action or movement per prompt. If you need a long sequence, generate it in short, 5-to-10-second clips.
+
+**Order Matters**: Place your most important camera instruction (like "Slow dolly in") at the very beginning of your prompt, as AI models weigh the first few words most heavily.
+
+### Sample Prompts with Camera Movements/Angles
+
+```
+Slow dolly in on an elderly watchmaker sitting at a cluttered workbench, examining a tiny gear through a jeweler's loupe, warm candlelight, dust motes dancing in the air, hyper-realistic cinematic style
+```
+
+![](./images/video-gen-example-2.jpeg)
+
+---
+
+```
+Tracking shot moving parallel to a futuristic motorcycle speeding through a rain-slicked cyberpunk street at night, neon reflections on the ground, high-speed motion blur, cinematic sci-fi aesthetic.
+```
+
+![](./images/video-gen-example-3.jpeg)
+
+---
+
+```
+Crane up from a close-up of a single vibrant red rose in a garden to reveal an expansive, lush Victorian estate, soft morning mist, elegant and peaceful atmosphere, cinematic documentary style.
+```
+
+![](./images/video-gen-example-4.jpeg)
+
+---
+
+## More Tips on Video Generation
+
 One must master visual language to write effective prompts for video generation. Here are some useful resources to learn visual language.
 
 [Video generation prompt guide](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide?hl=en)  
 [Seedance Prompt Builder](https://seedancee.com/seedance-prompts)
+
+# Data Analysis
+
+Download the following dataset for a quick practice.
+[https://www.ugcs.gov.hk/datagovhk/Graduates2(Eng).csv](<https://www.ugcs.gov.hk/datagovhk/Graduates2(Eng).csv>)
+
+**Description**:  
+Number of Graduates (Headcount) of UGC-funded Programmes by Level of Study, Broad Academic Programme Category and Sex
+
+## EDA (Exploratory Data Analysis)
+
+Most AI tools can perform EDA tasks, but the quality of the output depends on how well you define your intent. Some AI tools can generate code for you, while others can directly analyze your data. You can also use AI to generate visualizations and dashboards.
+
+You are suggested to use multiple AI tools to cross-check the outputs and ensure accuracy, e.g. Gemini, Copilot, Qwen, Doubao.
+
+Here are some prompts to get you started.
+
+---
+
+```
+Describe the dataset
+```
+
+---
+
+```
+Change "Number of Graduates (Headcount)" column to "Headcount"
+```
+
+---
+
+```
+Retrieve only the "Taught Postgraduate" records
+```
+
+---
+
+```
+How many records are there?
+```
+
+---
+
+```
+Group the data by "Broad Academic Programme Category" and calculate the total headcount.
+```
+
+---
+
+```
+create a pie chart
+```
+
+---
+
+## Interactive Data Dashboard Generation
+
+Suggested Tools
+
+- [Gemini](https://gemini.google.com)
+- [Julius](https://julius.ai/signup?ref=TGSRT96EZKDK)
+- [Cursor](https://cursor.sh/)
+- [Lovable](https://www.lovable.dev/)
+- [Bolt.new](https://bolt.new/)
+- [v0](https://v0.dev/)
+- [Base44](https://base44.com/)
+
+Use the following simple prompt together with your dataset to generate an interactive dashboard.
+
+```
+create a dashboard for the uploaded data so that I can explore the dataset
+```
+
+---
+
+```
+I am new to this dataset. Please create an interactive dashboard for me to explore the data and generate insights.
+```
+
+---
+
+## CRISPE Prompting Framework
+
+- **C**apacity
+- **R**equest
+- **I**nsight
+- **S**tated Goal
+- **P**resentation
+- **E**xperiment/Constraints
+
+| Component                    | Analytical Purpose                                                                           | Example                                                                                                                                                                         |
+| :--------------------------- | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **C**apacity (Role)          | Grounds the technical depth, perspective, and domain rigor.                                  | _"Act as a Senior Product Data Scientist with deep expertise in subscription churn modeling."_                                                                                  |
+| **R**equest (Task)           | Outlines the core analytical task or transformation needed.                                  | _"Analyze the provided monthly cohort data to identify primary drop-off inflection points."_                                                                                    |
+| **I**nsight (Data & Context) | Provides metadata, data dictionary, sample rows, and business context.                       | _"Columns: `user_id` (UUID), `signup_date` (YYYY-MM-DD), `tier` (Free, Pro), `events_day_30` (int). Total rows: 50,000. Data is skewed heavily toward zero events."_            |
+| **S**tated Goal              | Defines the business decision or hypothesis being tested.                                    | _"Our goal is to determine if feature adoption within the first 7 days correlates with 90-day retention."_                                                                      |
+| **P**resentation (Format)    | Specifies the exact output: clean Python/Pandas code, SQL dialects, or an executive summary. | _"Output formatted in: 1) Python 3.11 Pandas code, 2) Markdown summary of key statistical findings, 3) 3 actionable recommendations."_                                          |
+| **E**xperiment / Constraints | Sets boundaries, edge-cases, and guardrails to prevent hallucinated conclusions.             | _"Explicitly list any assumptions about missing data. Do not impute values without stating the method. If sample sizes are too small for statistical significance, flag them."_ |
+
+## The Rapid Scripting Framework: RTFC
+
+When you do not need qualitative insights and simply need reliable code, RTFC removes conversational fluff and produces deterministic syntax:
+
+- **Role**: Lead Analytics Engineer specialized in Snowflake SQL / BigQuery.
+- **Task**: Write an incremental CTE to calculate a 7-day rolling average of active users per region.
+- **Format**: Raw SQL query only with inline comments explaining window functions.
+- **Constraints**: Must use standard ANSI SQL, handle duplicate timestamps by picking the latest event_id, and execute without subqueries in the WHERE clause.
+
+# Tips on Profesional Power Point Design
+
+![](./images/ppt-tips.jpeg)
 
 # Photo / Video / Icon Libraries
 
@@ -324,8 +488,7 @@ Images/Video generation tools cloud end up being slow and expensive. Sometimes, 
 - [Icons8](https://icons8.com) - Free icons and images.
 - [Flaticon](https://www.flaticon.com) - Free icons in various formats.
 
-# HKU Suggested GenAI Tools
+# More AI Learning Resources
 
-[GenAI Tools Listing for Teaching & Learning](https://aied.talic.hku.hk/genaitools/)
-
-[![](./images/gen-ai-tools-listing.png)](https://aied.talic.hku.hk/genaitools/)
+[https://training.imagenation.com.hk/#learn](https://training.imagenation.com.hk/#learn)
+[![](./images/more-ai-learning.png)](https://training.imagenation.com.hk/#learn)
