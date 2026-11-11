@@ -84,7 +84,7 @@ a16z is the short name for Andreessen Horowitz, a major Silicon Valley venture c
 
 # Reminders on Using AI Tools
 
-- AI is NOT always correct.AI sometimes generated false information (known as **hallucination**)
+- AI is NOT always correct. AI sometimes generated false information (known as **hallucination**)
 - Free AI tools may collect and use your data to train their models
 - Generative AI tools update/evolve rapidly, so features may change and user interfaces may look different
 - Human In The Loop (HITL) is important for ensuring the quality and safety of AI-generated content.
